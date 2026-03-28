@@ -1,5 +1,6 @@
+- 🚩 UNDER CONSTRUCTION
 - 👋 Hi, I’m @rosesd97
 - 👀 I’m interested in Powershell and M365 administration!
-- 🌱 I’m currently learning Node.js (for a discord bot), M365 related PowerShell goodness, and building an in-home lab 
-- 💞️ I’m looking to collaborate on nothing at this time, but if you got any Node.js tips, lmk!
-- 📫 How to reach me: Twitter @Metlgearzeke
+- 🌱 
+- 💞️ 
+- 📫 
